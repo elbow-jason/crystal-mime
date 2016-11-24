@@ -1,6 +1,6 @@
 require "json"
 
-module Mime
+module CrystalMime
 
   def self.from_ext(ext)
     ext = ext.to_s
